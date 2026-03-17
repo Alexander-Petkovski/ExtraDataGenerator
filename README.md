@@ -4,6 +4,7 @@
 
 Generate reproducible CSV and Excel files loaded with real-world data quality problems: BOM prefixes, null variants, accounting negatives, EU decimals, mixed booleans, Excel errors, merged cells, hidden rows, and more. Every issue injected maps directly to a cleaning operation in ExtraDataCleaner, so you can test your pipeline end-to-end.
 
+** Data settings are matched with ExtraDataCleaner; as features are implemented in ExtraDataCleaner, features will be matched in ExtraDataGenerator, suggestions are also welcomed. 
 ---
 
 ## Download
