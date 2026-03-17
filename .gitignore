@@ -1,0 +1,8 @@
+ExtraDataGenerator.exe
+dist/
+build/
+icon.ico
+__pycache__/
+*.pyc
+*.pyo
+*.spec.bak
